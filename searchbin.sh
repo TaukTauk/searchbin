@@ -1,7 +1,6 @@
 #!/bin/bash
 
-#student name: Tauk Tauk Lin
-#student ID: 10632708
+
 
 # I will present three parts for three option
 # Without the functions, the code will be too bulky
